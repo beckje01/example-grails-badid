@@ -1,0 +1,9 @@
+.idea/
+target/
+*.iml
+cobertura.ser
+.DS_Store
+out/
+.classpath
+.project
+web-app/WEB-INF/tld/
